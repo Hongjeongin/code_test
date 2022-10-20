@@ -1,7 +1,7 @@
 Programmers Code Test
 =====================
 > 프로그래머스 사이트 코딩테스트   
-> <>
+> <https://school.programmers.co.kr/learn/challenges?page=1>
 
 Subject: Level_2
 ----------------
